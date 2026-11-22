@@ -1,0 +1,9 @@
+# Part B Question 1
+a = 2 % 2 + 2 * 2 - 2 / 2
+print(a)
+# Part B Question 2
+b = 3 / 2 + 5 * 4 / 3
+print(b)
+# Part B Question 3
+c = b = a = 3 + 4
+print(a, b, c)
